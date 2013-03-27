@@ -1,3 +1,8 @@
+# emacs backup files
+*~
+
+# compiled Python code
+
 *.py[cod]
 
 # C extensions
